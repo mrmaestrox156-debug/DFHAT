@@ -2,7 +2,7 @@ DFHAT - Deep Forensic and Hunting Analysis Tool
 
 DFHAT is a modular open-source intelligence (OSINT) and defensive security auditing tool designed for real-time target structural analysis directly from the terminal.
 
-![DFHAT Banner](https://i.postimg.cc/cHyXnPMy/Novo-projeto-0AFD310.png)
+![DFHAT Banner](https://i.postimg.cc/QN08WLJh/Novo-projeto-535-86EE2C6.png)
 
 Core Modules:
 - LINK: HTTP routing trace and server metadata extraction.
