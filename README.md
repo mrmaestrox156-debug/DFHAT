@@ -10,7 +10,7 @@ Core Modules:
 - FAKE EMAIL: Live DNS record verification and domain integrity checking.
 - SPAM NUMBER: Telecommunications structural analysis and geographic area routing mapping.
 
-![DFHAT Interface](https://raw.githubusercontent.com/mrmaestrox156-debug/DFHAT/main/1000099481.jpg)
+![DFHAT Interface](https://i.postimg.cc/fR622LDz/Novo-projeto-534-781CF63.png)
 
 ---
 
